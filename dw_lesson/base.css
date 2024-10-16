@@ -1,0 +1,16 @@
+@charset "utf-8";
+
+body h1 {
+    color: #FF9600;
+    font-family: "Hiragino Kaku Gothic ProN";
+    font-size: 40px;
+    text-align: center;
+}
+.key {
+    color: #F80B0F;
+    background-color: #00DBFF;
+    font-size: x-large;
+}
+body p img {
+    border: 10px dotted #07E6F1;
+}
